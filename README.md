@@ -2,7 +2,7 @@ center88留言板-without MVC
 ===
 
 ## Table of Contents
-- [disksim_blas_Yifen](#disksim-blas-yifen)
+- [test](#test)
   * [Beginners Guide](#beginners-guide)
 
 ## Beginners Guide
